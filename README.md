@@ -261,4 +261,4 @@ This list underlies a topic study on *selective circuit preservation during comp
 
 ## License
 
-[GNU General Public License v3.0](LICENSE).
+[CC0 1.0 Universal](LICENSE) — public domain. Paper titles, author lists, and links are factual metadata; use freely.
